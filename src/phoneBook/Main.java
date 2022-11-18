@@ -11,7 +11,7 @@ public class Main {
         book.addPhone("Colin Watts","234565432345");
         book.addPhone("Miranda Zaq","5290828613");
         book.addPhone("Noel Han","8901443768");
-        book.addPhone("Ivan Moren","552178900000");
+        book.addPhone("Ivan Fur","552178900000");
         book.addPhone("Nikola Tesla","1245974225");
         book.addPhone("Tokio Hostel","261840055");
         book.addPhone("Melody Tune","889060088888");
